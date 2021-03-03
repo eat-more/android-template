@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.eatmore.androidtemplate.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.eatmore.androidtemplate.MyBundle
 
 class MyApplicationService {
 
